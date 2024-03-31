@@ -1,0 +1,35 @@
+Informacion sobre Promptior:
+Genera oportunidades inéditas en un mundo en constante evolución.
+Libera el potencial de la inteligencia artificial generativa en tu organización.
+¿Quienes somos?
+En Promptior, somos más que consultores, somos tus aliados para aprovechar el poder transformador de la IA. Creemos que la verdadera magia ocurre no solo a través de la implementación de la tecnología, sino cuando se adopta plenamente en cada rincón de tu organización. Nos comprometemos a fomentar un ecosistema donde la innovación no solo se aplica, sino que se integra sin problemas, convirtiéndose en una parte esencial de tus procesos diarios, decisiones estratégicas y marco operativo. Estamos aquí para guiarte en cada paso de este viaje transformador, asegurándonos de que no solo sea fluido, sino verdaderamente empoderador. Con Promptior a tu lado, estás dando un paso seguro hacia un futuro lleno de posibilidades sin precedentes.
+Nuestros servicios
+Promptior Innovation Studio: Bienvenido a Promptior Innovation Studio, donde transformamos tu visión en realidad. Trabajamos capacitando a la alta dirección y a los equipos de tu empresa en IA Generativa para liderar la transformación. Comprometemos y descubrimos oportunidades de crecimiento. Impulsamos la adopción mediante una hoja de ruta tecnológica. Acelera tus ideas con el Promptior Innovation Hub y destácate en tu industria.
+Metodología Promptior: En el Promptior Innovation Hub, aceleramos las ideas hacia los resultados. A través de nuestra metodología de colaboración y creación conjunta, combinamos tecnología y estrategia empresarial para resolver desafíos, explorar oportunidades y desarrollar soluciones personalizadas. Trabajamos contigo y tus equipos, impulsando el crecimiento y la transformación mediante capacitaciones y talleres. Nuestro objetivo es ayudarte a innovar y destacarte en tu industria, brindándote el conocimiento y las herramientas necesarias para lograrlo.
+Promptior Dev-Studio: ¡Desarrolla tu éxito con Promptior Dev Studio! Nuestro equipo de expertos en desarrollo de software personalizado está listo para convertir tus ideas en soluciones digitales innovadoras. Desde el diseño hasta la implementación de automatizaciónes y la IA generativa, te brindamos un servicio completo que impulsa el crecimiento de tu empresa en el mundo digital. Un enfoque centrado en la experiencia de usuario, creamos productos robustos y escalables que te destacarán en tu industria.
+Desarrolla soluciones digitales: Automatización y IA Generativa": En Promptior Dev Studio, no solo te ofrecemos un software a medida, sino también una asociación estratégica en el area de IA Generativa. Nuestro compromiso es llevar tu negocio al siguiente nivel con soluciones tecnológicas que marquen la diferencia. Aprovecha nuestra experiencia y conocimientos en desarrollo para superar los desafíos actuales y futuros. Confía en nosotros para impulsar tu éxito digital y alcanzar resultados extraordinarios. Juntos, construiremos un futuro brillante para tu empresa.
+
+Emprendedores: Nicolás López, Emiliano Chinelli, Joaquín Avalos
+Inicio: 2023
+www.promptior.ai/
+
+La empresa
+Luego de 15 años dedicado al desarrollo de productos innovadores y habiendo identificado el potencial de la inteligencia artificial generativa para transformar organizaciones, Emiliano Chinelli decidió fundar Promptior para acelerar su adopción de una manera que potencie a las personas. Con esta empresa, puso en marcha su visión de aprovechar plenamente el poder de la IA al servicio del bienestar global, empoderando a los humanos en las organizaciones con nuevas herramientas tecnológicas que mejoren sus procesos de trabajo de forma responsable.
+
+Cómo surge
+La empresa fue fundada en marzo de 2023 con la misión de democratizar y facilitar el acceso a la Inteligencia Artificial (IA) para personas y organizaciones de todo el mundo . Su objetivo es impulsar la innovación, mejorar la eficiencia y transformar la forma en que las personas trabajan, aprenden y colaboran mediante el suministro de soluciones y servicios de IA.
+
+Nicolás López
+Analista Programador - Universidad ORT Uruguay
+
+CEO
+Emiliano Chinelli
+Ingeniero IT - Universidad Católica del Uruguay
+
+Joaquín Avalos
+Master en Bigdata - Universidad ORT Uruguay
+
+Semilla Tech: Brindamos apoyo a empresas y emprendimientos de base tecnológica, para la generación de soluciones digitales para las mipymes de todo el país. Modo Digital, un programa de ANDE (agencia nacional de desarrollo). El primero de noviembre de 2023 el directorio de ANDE aprobo varios proyectos de empresas emprendedoras, Promptior fue una de ellas.
+
+Promptior estuvo en una Mesa de diálogo impulsada por el CUTI(Cámara Uruguaya de Tecnologías de la Información) y Agesic(Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento) el día 3 de octubre del 2023, “Inteligencia Artificial: oportunidades y desafíos de una estrategia nacional”, sector TI. En esta mesa participo Joaquín Avalos, "La transición de problemas o casos de uso académicos hacia la aplicación en la práctica de casos de uso reales, es un desafío que no siempre es viable. En este sentido, la interoperabilidad de datos desempeña un papel fundamental, ya que la disponibilidad de datos de alta calidad y verificados sirve como insumo clave para el desarrollo de prototipos y proyectos concretos. La gestión adecuada de los datos no solo facilita la investigación y los estudios, sino que también aumenta la eficacia de los resultados. Para garantizar un nivel de conocimientos uniforme entre los docentes, es crucial considerar la implementación de programas de nivelación general que puedan potenciar la enseñanza.
+La seguridad y la verificación de datos son aspectos esenciales, además de contar con un sello de validación que respalde la calidad y la integridad de los modelos, también trabajar en la prevención de la difusión de noticias falsas y en el mantenimiento de la confianza en la información.".
